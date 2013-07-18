@@ -1,1 +1,4 @@
 baseurl: /liamming 
+pygments: true
+safe: true
+auto: true

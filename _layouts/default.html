@@ -4,6 +4,12 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
 		<link rel="stylesheet" href="/liamming/css/screen.css" type="text/css" />
+		<script src="/liamming/js/audiojs/audio.min.js"></script>
+		<script>
+			audiojs.events.ready(function() {
+				audiojs.createAll();
+			});
+		</script>
 
 
 		<title>{{ page.title }}</title>

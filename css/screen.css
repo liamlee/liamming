@@ -7,3 +7,11 @@
 
 #headAera{width:600px; float:left;margin:2px 0 0; padding:0 25%;}
 #headAera h3{font-family:LiSu,KaiTi,Sans-serif;color:#778899}
+
+a{
+text-decoration:none
+}
+
+a:hover{
+color:#EFFBF8
+}

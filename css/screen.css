@@ -1,9 +1,10 @@
 /*CSS */
 
 /*---main content---*/
-#mainContent{width:600px; float:left;margin:2px 0 0; padding:0 25%;}
+#mainContent{width:600px; float:left;margin:2px 0 0; padding:0 25%;font-family:Microsoft JhengHei;font-size:14px;text-indent:2em;color:#808080;}
 #mainContent p{padding:0 0 1px 0; font-family:Microsoft JhengHei;font-size:14px;text-indent:2em;color:#808080;}
 #mainContent p span{float:left;width:1.2em;font-size:200%}
+
 
 #headAera{width:600px; float:left;margin:2px 0 0; padding:0 25%;}
 #headAera h3{font-family:LiSu,KaiTi,Sans-serif;color:#778899}
